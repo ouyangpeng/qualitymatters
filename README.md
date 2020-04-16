@@ -1,3 +1,7 @@
+# 参考链接
++ https://artemzin.com/blog/android-development-culture-the-document-qualitymatters/
++ https://www.cnblogs.com/oneapm/p/5161040.html
+
 # QualityMatters
 
 This app follows all principles of [Android Development Culture Document](http://artemzin.com/blog/android-development-culture-the-document-qualitymatters/).
